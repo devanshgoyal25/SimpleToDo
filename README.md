@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/PGp8ioZ.gifv' title='SimpleToDo' width='' alt='Video Walkthrough' />
+<img src='https://github.com/devanshgoyal25/SimpleToDo/blob/master/SimpleToDo.gif' title='SimpleToDo' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
